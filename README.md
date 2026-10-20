@@ -49,6 +49,7 @@ class Solution {
     }
 }
 ```
+
 ### Complexity Analysis
 * **Time Complexity:** $O(n)$ — We iterate through the array of length $n$ at most once from right to left.
 * **Space Complexity:** $O(1)$ auxiliary in-place ($O(n)$ space when array expansion occurs for all-9s edge cases).
